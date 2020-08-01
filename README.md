@@ -7,12 +7,12 @@ FaceMaskDetector was constructed by Arnav Mardia for Smartnup EdTech.
 
 # CNN:
 
-https://miro.medium.com/max/1400/1*r7wdvwMaBa52CgOlykmCFw.png
+
 
 # Future Improvements:
 1. Currently, the CNN functionality is slow and we would work on increasing the capture speed for real time recognition. 
 2. Optimize further for large scale facial recognition
-3. Set up frontend web server to connect facial recognition system with a SQL database?
+3. Set up frontend web server to connect facial recognition system with a SQL database
 
 # Citations: 
 Data - I have used the face mask dataset provided by Prajna Bhandary : https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6655711815361761280/
