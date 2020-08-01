@@ -6,7 +6,7 @@ The Face Mask detection model is built using the Sequential API of the keras lib
 FaceMaskDetector was constructed by Arnav Mardia for Smartnup EdTech. 
 
 # CNN:
-Structure in repository
+Structure in repository - "cnn_facemask.png"
 
 # Future Improvements:
 1. Currently, the CNN functionality is slow and we would work on increasing the capture speed for real time recognition. 
