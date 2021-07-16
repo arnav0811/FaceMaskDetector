@@ -16,5 +16,5 @@ Structure in repository - "cnn_facemask.png"
 # Citations: 
 Data - I have used the face mask dataset provided by Prajna Bhandary : https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6655711815361761280/
 
-https://towardsdatascience.com/covid-19-face-mask-detection-using-tensorflow-and-opencv-702dd833515b
+
 
